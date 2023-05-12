@@ -12,6 +12,6 @@ Hey there curious onlooker 👋<br><br>It's Andra here 😄<br><br>I am currentl
 ---
 [![](https://visitcount.itsvg.in/api?id=alwyschwuetz&icon=5&color=0)](https://visitcount.itsvg.in)
 
-- :mailbox:How to reach me: <a href="mailto:andralai71@gmail.com">
+- :mailbox:How to reach me: <a href="mailto:andralai71@gmail.com">Click here</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
