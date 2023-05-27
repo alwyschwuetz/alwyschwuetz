@@ -1,5 +1,5 @@
 # About Me ✨
-Hey there curious onlooker 👋<br><br>It's Andra here 😄<br><br>I am currently a student of Diploma in IT at Multimedia University (MMU) 👩‍🎓<br><br>Current Interests :<br>- Building websites with React/Typescript<br>- Pursuing a full-stack web development career<br><br>Personal projects :<br>- Food Website based in Cyberjaya<br>- Online Shopping Platform (coming soon)<br><br>
+Hey there curious onlooker 👋<br><br>It's Andra here 😄<br><br>I am currently a student of Diploma in IT at Multimedia University (MMU) 👩‍🎓<br><br>Current Interests :<br>- Building websites with React/Typescript<br>- Studying full stack development<br><br>Personal projects :<br>- Food Website based in Cyberjaya<br>- Online Shopping Platform (coming soon)<br><br>
 
 - :mailbox:How to reach me: <a href="mailto:andralai71@gmail.com">Contact Andra</a>
 
