@@ -1,5 +1,5 @@
 # About Me ✨
-Hey there curious onlooker 👋<br><br>It's Andra here 😄<br><br>I am currently a student of Diploma in IT at Multimedia University (MMU) 👩‍🎓<br>Personal project :<br>- Food Website based in Cyberjaya<br><br><br>
+Hey there curious onlooker 👋<br><br>It's Andra here 😄<br><br>I am currently a student of Diploma in IT at Multimedia University (MMU) 👩‍🎓<br><br>Personal project :<br>- Food Website based in Cyberjaya<br><br><br>
 
 - :mailbox:How to reach me: <a href="mailto:andralai71@gmail.com">Contact Andra</a>
 
